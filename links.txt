@@ -1,0 +1,50 @@
+Important Links
+
+https://www.java-success.com/java-modifiers-interview-questions-and-answers/
+
+https://www.java-success.com/a-q10-top-50-core-java-interview-questions/
+
+https://www.java-success.com/understanding-overriding-hiding-overloading-java-overriding-give-polymorphism/
+
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers (IMP)
+
+https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
+
+https://www.geeksforgeeks.org/how-to-initialize-and-compare-strings-in-java/ String initialisation
+
+https://www.c-sharpcorner.com/article/top-50-angularjs-interview-questions-and-answers/ Angular
+https://www.codementor.io/blog/angularjs-interview-questions-sample-answers-du1081n7p
+
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html
+Durable vs Transient : AMQP separates the concept of entity durability (queues, exchanges) from message persistence. Exchanges can be durable or transient. Durable exchanges survive broker restart, transient exchanges do not (they have to be redeclared when the broker comes back online), however, not all scenarios and use cases mandate exchanges to be durable.
+
+
+https://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling - Cassandra Data Model
+https://docs.datastax.com/en/cassandra/2.1/cassandra/architecture/architectureIntro_c.html - Cassandra Architecture
+https://docs.datastax.com/en/archived/cassandra/2.0/cassandra/dml/dml_write_path_c.html
+https://www.ecyrd.com/cassandracalculator/
+https://gist.github.com/hkhamm/a9a2b45dd749e5d3b3ae - cassandra installation
+https://docs.datastax.com/en/cassandra/3.0/cassandra/dml/dmlDatabaseInternalsTOC.html - Complete Cassandra VVIP
+https://www.beyondthelines.net/databases/cassandra-tombstones/
+
+
+https://www.journaldev.com/2696/spring-interview-questions-and-answers
+https://stackoverflow.com/questions/2265503/why-do-i-need-to-override-the-equals-and-hashcode-methods-in-java - equals & hashcode
+https://www.journaldev.com/1330/java-collections-interview-questions-and-answers - collections
+https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples - Singleton class
+https://www.programmergate.com/create-immutable-class-java/ - Immutable
+https://javaconceptoftheday.com/synchronization-in-java/ - Synchronized
+https://javaconceptoftheday.com/memory-management-java/ - Memory management / Static
+
+
+https://www.codechef.com/certification/prepare - Data structure preparation
+
+https://g00glen00b.be/prototyping-spring-boot-angularjs/ - Spring angular
+
+
+https://academy.datastax.com/resources/brief-introduction-apache-cassandra
+https://docs.datastax.com/en/cassandra/latest/cassandra/dml/dmlIntro.html
+https://smartbear.com/learn/api-design/what-are-microservices/
+https://dzone.com/articles/microservices-architecture-what-when-how - IMP
+
+http://www.anujgakhar.com/2010/06/23/stress-testing-your-website-with-apache-jmeter/ - Jmeter
